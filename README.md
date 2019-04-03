@@ -17,7 +17,7 @@ Execute heuristic optimization (from project root):
 python3 heuristic_optimization.py
 ```
 
-Run a game between agents (desde la raíz del proyecto):
+Run a game between agents (from project root):
 ```
 python3 run_cuanteti.py
 ```
